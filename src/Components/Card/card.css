@@ -1,0 +1,12 @@
+.card {
+  padding: 10px;
+  margin: 10px;
+  border: solid black 2px;
+  background: lightblue;
+  display: inline-block;
+  transition: all .2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
